@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645479269287",
+    "project_id": "about-chicken",
+    "storage_bucket": "about-chicken.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645479269287:android:fbc7ace07969327fb9ac82",
+        "android_client_info": {
+          "package_name": "com.example.about_chicken"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwd4iJEU9P9lOZ2Ypbz0dPlQLteLZ0XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
